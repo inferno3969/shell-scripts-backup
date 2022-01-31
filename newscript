@@ -1,0 +1,7 @@
+#!/bin/bash
+echo -e "What is your name? --> \c"
+read USERNAME
+echo "Hello $USERNAME"
+echo -e "How old are you? --> \c"
+read AGE
+echo "You are $AGE years old."
